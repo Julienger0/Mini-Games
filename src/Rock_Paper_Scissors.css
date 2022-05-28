@@ -1,0 +1,20 @@
+.Rock_Paper_Scissors {
+  text-align: center;
+}
+
+.Rock_Paper_Scissors_choices {
+  display: flex;
+  justify-content: center;
+}
+
+.Rock_Paper_Scissors_choice {
+  padding: 20px;
+}
+
+.Rock_Paper_Scissors_buttons {
+  margin: 10px;
+}
+
+.Rock_Paper_Scissors_text {
+  color: rgb(216, 70, 70);
+}
